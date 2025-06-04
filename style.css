@@ -1,0 +1,67 @@
+.box{
+    height:1200px;
+    width:600px;
+    background-color: rgb(208, 203, 223);
+    
+}
+body{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+}
+
+#cv{
+    font-family: "Montserrat", sans-serif;
+     text-align: center; 
+     color: rgb(86, 7, 70);
+    /* margin-top: 40px;
+    margin-right: 60px;
+    margin-left: 145px; */
+}
+.image_box{
+    height: 160px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+#cutie{
+    height: 150px;
+    width: 150px;
+    margin-right: 30px;
+}
+
+.left{
+     margin-left: 27px; 
+}
+
+#name{
+    font-size: 25px;
+    font-family:Tahoma ;
+}
+#designation{
+    margin-top: -14px;
+    margin-left: 90px;
+}
+
+.box2{
+    padding: 20px;
+
+}
+#obj2{
+    margin-top: -13px;
+
+}
+
+
+.heading{
+    font-size: 21px;
+    color: rgb(86, 7, 70);
+    font-family: Cambria;
+
+}
